@@ -4,7 +4,7 @@ This is a repository that contains solutions to common interview problems that I
 
 ## 💻 Technologies Used
 - Programming languages: [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), [SQL](https://en.wikipedia.org/wiki/SQL)
-Libraries and frameworks: [.NET Core](https://dotnet.microsoft.com/en-us/), [Autofac](https://autofac.org/), [Newtonsoft.Json](https://www.newtonsoft.com/json), [Log4Net](https://logging.apache.org/log4net/)
+- Libraries and frameworks: [.NET Core](https://dotnet.microsoft.com/en-us/), [Autofac](https://autofac.org/), [Newtonsoft.Json](https://www.newtonsoft.com/json), [Log4Net](https://logging.apache.org/log4net/)
 
 ## 📁 Repository Structure
 The repository is organized into folders for each programming language, with each folder containing solutions to problems written in that language. Within each language folder, each problem has its own subfolder, with a README file explaining the problem and a solution file.
