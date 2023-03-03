@@ -1,4 +1,4 @@
-﻿#🤔 Interview Problems
+#  Interview Problems
 This is a repository that contains solutions to common interview problems that I have solved as part of my job search process. The problems are written in various programming languages and cover a range of topics, including data structures, algorithms, and system design.
 
 #💻 Technologies Used
