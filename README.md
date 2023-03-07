@@ -16,14 +16,3 @@ Contributions to this repository are welcome. If you have a solution to a proble
 
 ## 📝 License
 This repository is licensed under the MIT License. Feel free to use the code in this repository for any purpose.
-
-## 🚀 Getting Started
-To run the solutions in this repository, clone the repository to your local machine and navigate to the relevant language and problem folders. Each solution file can be run using the appropriate language-specific tools.
-
-
-## 🤝 Contributing
-Contributions to this repository are welcome. If you have a solution to a problem that is not currently included, feel free to submit a pull request with your solution. Please ensure that your solution is well-documented and follows the existing code style.
-
-
-## 📝 License
-This repository is licensed under the MIT License. Feel free to use the code in this repository for any purpose.
